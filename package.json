@@ -1,0 +1,29 @@
+{
+  "name": "awesome-ejs-compiled-loader",
+  "version": "1.0.0",
+  "description": "EJS webpack loader (without frontend dependencies)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ant-ife/awesome-ejs-compiled-loader"
+  },
+  "keywords": [
+    "ejs",
+    "webpack",
+    "loader",
+    "template"
+  ],
+  "author": "zivyangll <zivyangll@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ant-ife/awesome-ejs-compiled-loader/issues"
+  },
+  "homepage": "https://github.com/ant-ife/awesome-ejs-compiled-loader",
+  "dependencies": {
+    "ejs": "~2.6.1",
+    "uglify-js": "~1.3.4"
+  }
+}
